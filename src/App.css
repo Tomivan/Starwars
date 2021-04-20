@@ -20,4 +20,9 @@
         width: 25vw;
         margin-left: 60%;
     }
+    .section{
+        margin-top: 60%;
+        margin-left: 15%;
+        text-align: center;
+    }
 }
